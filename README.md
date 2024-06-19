@@ -1,16 +1,11 @@
-# meals
+# Meal App
 
-A new Flutter project.
+An app which lets you view various recipes and favourite them.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![meal_app_1](https://github.com/Will-Agar/meals/assets/55886488/d4f3de24-2f29-443b-9a5c-892445994c21)
+![meal_app_2](https://github.com/Will-Agar/meals/assets/55886488/4d634d65-1aa0-4803-90a2-00fe19cc6f73)
+![meal_app_3](https://github.com/Will-Agar/meals/assets/55886488/d29a047c-1553-4309-8c40-73ed2c309e2c)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
